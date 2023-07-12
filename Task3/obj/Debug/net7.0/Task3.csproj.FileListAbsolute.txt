@@ -1,0 +1,15 @@
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\bin\Debug\net7.0\Task3.exe
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\bin\Debug\net7.0\Task3.dll
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\bin\Debug\net7.0\Task3.pdb
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.dll
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.pdb
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\УЧЕБА\C sharp\practice\homework\Homework_8_Csharp\Tasks\Task3\obj\Debug\net7.0\ref\Task3.dll
