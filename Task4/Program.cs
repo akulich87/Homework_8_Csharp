@@ -27,21 +27,6 @@ void FillArray(int[,,] array)
 }
 
 // Вывод индексов 3D массива
-// void PrintIndex(int[,,] array)
-// {
-//   for (int i = 0; i < array3D.GetLength(0); i++)
-//   {
-//     for (int j = 0; j < array3D.GetLength(1); j++)
-//     {
-//       System.Console.WriteLine();
-//       for (int l = 0; l < array3D.GetLength(2); l++)
-//       {
-//         System.Console.Write($"{array3D[i,j,l]} ({i},{j},{l}) ");
-//       }
-//     }
-//   }
-// }
-
 void PrintIndex(int[,,] array)
 {
   for (int i = 0; i < array3D.GetLength(0); i++)
